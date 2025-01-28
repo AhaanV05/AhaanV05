@@ -36,5 +36,5 @@ I'm a student at Manipal University Jaipur, pursuing a B.Tech in Computer Scienc
 
 
 ## 🏅**Achievements**
-- 2nd Place in Hackathon 
+- 2nd Place in Hackathon [(View Certificate)](./assets/certificate.pdf)
 
