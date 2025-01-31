@@ -1,7 +1,7 @@
 # Hello There👋, Im Ahaan! 
 
 ## 🚀**About Me**
-I'm a student at Manipal University Jaipur, pursuing a B.Tech in Computer Science Engineering, specializing in AIML and graduating in 2028. My coding journey began in 9th grade with Java and am now a member of MUJ's ACM Club, contributing to the Projects and Research SigAi, as part of the junior working team.
+I'm a student at Manipal University Jaipur, pursuing a B.Tech in Computer Science Engineering, specializing in AIML and graduating in 2028. My coding journey began in 9th grade with Java and am now a member of MUJ's ACM Club, contributing to the Projects and Research team in SigAi, as part of the junior working team.
                                   
 **🔭 Currently working on:**  
 1. [Video Cleaner](https://github.com/AhaanV05/Video-Cleaner)
