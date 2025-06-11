@@ -5,7 +5,6 @@ I'm a student at Manipal University Jaipur, pursuing a B.Tech in Computer Scienc
 
 ## 🔗**Socials** 
 <a href="https://www.instagram.com/_ahaanverma_/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45" height="45"></a>&nbsp;&nbsp;
-<a href="https://matrix.to/#/@ahaanv05:gitter.im"><img src="https://element.io/blog/content/images/2020/07/element-logo.png" width="45" height="45"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahaan-verma-475b74314/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45" height="45"></a>
 
 ## ⚙️**Tech Stack** 
