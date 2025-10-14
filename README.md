@@ -2,9 +2,10 @@
 <h3 align="center">I’m a B.Tech CSE (AIML) student at Manipal University Jaipur (Class of 2028), passionate about the intersection of Machine Learning and Finance. My long-term goal is to build an AI + Finance startup focused on quantitative trading, risk modeling, and financial AI applications. I currently serve as the Technical Head at MUJ ACM SIGAI, where I lead and contribute to projects exploring advanced applications of AI. My coding journey began in 9th grade with Java, and over time I’ve worked across domains including computer vision and machine learning to solve real-world problems.</h3>
 
 
-- 📫 How to reach me **ahaanverma0508@gmail.com**
+- 📫 How to reach me: **ahaanverma0508@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uNrVWsOJWYBfmGTHFcC319zdJwHL5RXN/view?usp=sharing](https://drive.google.com/file/d/1uNrVWsOJWYBfmGTHFcC319zdJwHL5RXN/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1uNrVWsOJWYBfmGTHFcC319zdJwHL5RXN/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
