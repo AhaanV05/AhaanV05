@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **ahaanverma0508@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1uNrVWsOJWYBfmGTHFcC319zdJwHL5RXN/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1FqB1f1myS036GrU4Oesg3xX4o3m4beG0/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
