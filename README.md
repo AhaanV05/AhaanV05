@@ -32,12 +32,6 @@
 </p>
 
 <p align="center">
-   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=AhaanV05&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak" 
-    width="45%" 
-    valign="top"
-  />
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhaanV05&theme=tokyonight&border=true" 
     alt="Top Languages" 
