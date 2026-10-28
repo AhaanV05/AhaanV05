@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hello There ! Im Ahaan Verma</h1>
-<h3 align="center">I’m a B.Tech CSE (AIML) student at Manipal University Jaipur (Class of 2028), driven to build AI-first systems that create real-world applications with meaningful positive impact. My primary focus is on designing and deploying intelligent, production-ready solutions that solve practical, high-value problems across industries. I currently serve as the Technical Head at MUJ ACM SIGAI, where I lead and contribute to projects exploring advanced applications of AI. My coding journey began in 9th grade with Java, and over time I’ve worked across domains including machine learning and computer vision to solve real-world problems.</h3>
+<h3 align="center">I’m a B.Tech CSE (AIML) student at Manipal University Jaipur (Class of 2028), driven to build AI-first systems that create real-world applications with meaningful positive impact. My primary focus is on designing and deploying intelligent, production-ready solutions that solve practical, high-value problems across industries. My coding journey began in 9th grade with Java, and over time I’ve worked across domains including machine learning, computer vision and agentic ai to solve real-world problems.</h3>
 
 
 - 📫 How to reach me: **ahaanverma0508@gmail.com**
